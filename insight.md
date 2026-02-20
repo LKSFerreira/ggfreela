@@ -42,6 +42,6 @@ O projeto nasceu da frustração com o modelo "pay-to-win" das plataformas de fr
 1. **Escrow (Garantia de Pagamento):** O cliente deposita antes. O dev trabalha com segurança, o cliente só libera ao receber.
 2. **Comunicação Centralizada:** Histórico de conversas gravado no banco para evitar problemas de escopo.
 
-### 5. O Modelo de Negócios (Pendente de Debate)
+### 5. O Modelo de Negócios
 
-* *(A preencher: Como a plataforma vai pagar seus custos de servidor se estourar a bolha, sem cobrar mensalidades ou taxas de 20%?)*
+* Para detalhes sobre como a plataforma será sustentável (como vamos pagar os custos de servidor sem cobrar mensalidades ou taxas abusivas), consulte o documento dedicado: [monetizacao.md](./monetizacao.md)
